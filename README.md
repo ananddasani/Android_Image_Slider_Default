@@ -1,6 +1,8 @@
 # Android_Image_Slider_Default
 Using Image Slider in theapp
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### activity_main.xml
@@ -45,6 +47,8 @@ viewFlipper = findViewById(R.id.viewFlipper);
 
 # App Highlight
 
-<img src="app_images/Image Slider Code.png" /><br>
+![Image Slider App1](https://user-images.githubusercontent.com/74413402/192095805-4e645d65-25cd-4c6e-abe7-6b4da3d2ef80.png)
+![Image Slider App2](https://user-images.githubusercontent.com/74413402/192095808-c051adc1-d566-4cdf-9e0c-80f383882d48.png)
+![Image Slider App4](https://user-images.githubusercontent.com/74413402/192095814-82473019-d168-4659-8cc4-986795dcd631.png)
+![Image Slider Code](https://user-images.githubusercontent.com/74413402/192095817-e4aa4184-29d4-4847-827c-554bf2676e04.png)
 
-<img src="app_images/Image Slider App1.png" width="300" /> <img src="app_images/Image Slider App2.png" width="300" /> <img src="app_images/Image Slider App4.png" width="300" /> <br>
